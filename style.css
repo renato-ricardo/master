@@ -5,6 +5,8 @@ p{
 h1{
 	background: #333;
 	color: white;
+	text-align: center;
+	padding: 35px;
 }
 
 #demo{
@@ -24,6 +26,10 @@ h1{
 }
 
 body{
-	background: black;
-	color: white;
+	background: white;
+	color: black;
+};
+
+h3{
+	text-align: center;
 }
